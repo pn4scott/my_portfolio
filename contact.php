@@ -29,10 +29,6 @@
 		} else {
 			echo 'error';
 		}
-}
-elseif !(isset($_POST['name']) && isset($_POST['email']) && isset($_POST['message'])){
-	echo 'all inputs are required';
-}
 ?>
 
 <!doctype html>
