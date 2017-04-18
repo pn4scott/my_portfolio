@@ -90,8 +90,8 @@
 							<input type ="text" name="name" cols = "25" row = "7" placeholder="Name" class="form-element"></input><br><br>
 							<input type="email" name="email" cols = "25" row = "7" placeholder="Email" class="form-element"></input><br><br>
 							<textarea type="text" name="message" cols = "27" row ="35" placeholder="Message" class="form-element"></textarea><br><br>
-							<button input type= "submit" value="Submit" class="button">Comment</button>
-							<button input type= "reset" value="Reset" class="button">Reset</button>
+							<button type= "submit" value="Submit" class="button">Comment</button>
+							<button type= "reset" value="Reset" class="button">Reset</button>
 							<h3 class="hstyle">Thank you for visiting my website</h3>
 						</div>
 					</form>
